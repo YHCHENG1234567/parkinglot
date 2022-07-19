@@ -12,4 +12,5 @@ public class ParkinglotApplication {
     //Yellow Sticker
     //Blue Sticker
     //red Sticker
+    //Sticker No.4
 }
