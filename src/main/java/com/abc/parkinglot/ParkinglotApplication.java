@@ -10,4 +10,6 @@ public class ParkinglotApplication {
         SpringApplication.run(ParkinglotApplication.class, args);
     }
     //Yellow Sticker
+    //Blue Sticker
+    //red Sticker
 }
